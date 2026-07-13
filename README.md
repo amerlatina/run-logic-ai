@@ -32,7 +32,7 @@ It integrates seamlessly with **Notion** for tracking and **Spotify** for playli
 
 ## 🚀 Getting Started  
 
-1. Visit **[Run Logic GPT](bit.ly/runlogicai)**  
+1. Visit **[Run Logic GPT](bit.ly/runlogic-ai)**  
 2. Connect your Notion and Spotify accounts  
 3. Say something like:  
    > “Create my 10K plan and sync to Notion.”  
