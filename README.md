@@ -65,7 +65,7 @@ Born from a love for running, tech, and creativity — Run Logic blends performa
 
 © 2025 **Run Logic GPT**. All rights reserved.  
 
-The **Run Logic** name, GPT, logo, and visual assets (including color palette, graphics, and design elements) are the intellectual property of **Diana Gonzalez**.  
+The **Run Logic** name, GPT, logo, and visual assets (including color palette, graphics, and design elements) are the intellectual property of **Run Logic LLC**.  
 
 These materials may not be copied, reproduced, redistributed, or used for commercial purposes without prior written permission.  
 
