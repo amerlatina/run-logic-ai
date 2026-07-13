@@ -1,59 +1,37 @@
 🏃‍♀️ Run Logic GPT – Terms of Use
-
 Last Updated: November 2025
-
 Welcome to Run Logic GPT — your AI running companion that helps you train smarter, stay motivated, and track your progress through integrations like Notion and Spotify.
-
 Please read these Terms of Use carefully before using Run Logic GPT or any related materials, including the website and integrations. By accessing or using Run Logic GPT, you agree to these terms.
-
 ⚙️ 1. Overview
-
-Run Logic GPT is an experimental, AI-powered assistant designed to provide running advice, training plans, motivation, and playlists. It may integrate with third-party tools (e.g., Notion, Spotify) to deliver personalized content and save user data at the user’s request.
-
-Run Logic GPT does not collect or store personal data directly — all information shared is processed securely via the OpenAI and connected platform APIs.
-
-👟 2. Intended Use
-
-Run Logic GPT is designed for personal wellness and motivation. It should not be used for medical or therapeutic advice. Always consult a licensed professional before beginning any new fitness regimen.
-
+Run Logic GPT is an experimental, AI-powered assistant designed to provide running advice, training plans, motivation, and playlists. It may integrate with third-party tools (e.g., Notion, Spotify) to deliver personalized content and save user data at the user's request.
+Run Logic GPT is built on OpenAI's platform. Any data you share is processed through OpenAI's infrastructure and the APIs of connected platforms (Notion, Spotify) under their respective privacy and data-handling policies. See our Privacy Policy for details on what's processed and how.
+👟 2. Eligibility & Intended Use
+Run Logic GPT is intended for users aged 18 and older. It is designed for personal wellness and motivation and should not be used for medical or therapeutic advice. Always consult a licensed professional before beginning any new fitness regimen.
 By using Run Logic GPT, you agree to use it responsibly and acknowledge that:
-
 All outputs are AI-generated suggestions, not certified training plans.
-
 Results may vary depending on individual fitness level and effort.
-
 You assume full responsibility for your training and performance outcomes.
-
 🔗 3. Integrations
-
 Run Logic GPT may connect with external platforms (like Notion or Spotify) to perform certain actions on your behalf — such as saving workout plans or creating playlists.
-
 When you authorize these integrations:
-
 You control the permissions granted.
-
-You can revoke access at any time through the respective service’s account settings.
-
-Run Logic GPT never stores your credentials or private data outside of these APIs.
-
+You can revoke access at any time through the respective service's account settings.
+Authentication is handled through each platform's official OAuth process; Run Logic GPT does not directly collect or store your account credentials.
 💡 4. Ownership & Intellectual Property
-
-All materials associated with Run Logic GPT — including the name, logo, design, visuals, and written content — are the intellectual property of Diana Gonzalez.
-
-You may not copy, reproduce, or reuse any part of the project (including its visual identity or API code) for commercial purposes without explicit written permission.
-
+All materials associated with Run Logic GPT — including the name, logo, design, visuals, and written content — are the intellectual property of Run Logic LLC.
+You may not copy, reproduce, redistribute, or reuse any part of the project (including its visual identity or code) for commercial purposes without explicit written permission. To request permission, contact support@runlogicapp.com.
 ⚖️ 5. Limitation of Liability
-
-Run Logic GPT is provided “as is” without warranties of any kind.
-Diana Gonzalez and contributors are not liable for any injury, loss, or damage arising from your use of this GPT or its recommendations.
-
-Use this tool at your own discretion and fitness level.
-
-🔐 6. Privacy
-
-Please refer to the Privacy Policy
- for details on data handling, integrations, and user privacy practices.
-
-
-© 2025 Run Logic GPT. All rights reserved.
+Run Logic GPT is provided "as is" and "as available," without warranties of any kind, express or implied.
+Run Logic LLC and its contributors are not liable for any injury, loss, or damage arising from your use of this GPT or its recommendations. Use this tool at your own discretion and fitness level.
+📝 6. Changes to These Terms
+These Terms may be updated from time to time. Continued use of Run Logic GPT after changes are posted constitutes acceptance of the revised terms. The "Last Updated" date above reflects the most recent revision.
+🚫 7. Termination
+Access to Run Logic GPT may be limited, suspended, or discontinued at any time, for any reason, without notice.
+📍 8. Governing Law
+These Terms are governed by the laws of the State of [State — the state in which Run Logic LLC is registered], without regard to conflict-of-law principles.
+🔐 9. Privacy
+Please refer to the Privacy Policy for details on data handling, integrations, and user privacy practices.
+✉️ 10. Contact
+Questions, disputes, takedown requests, or permission requests can be sent to support@runlogicapp.com.
+© 2025 Run Logic LLC. All rights reserved.
 Created by Diana Gonzalez — combining a love for running, technology, and creativity.
