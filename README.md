@@ -50,9 +50,9 @@ It integrates seamlessly with **Notion** for tracking and **Spotify** for playli
 ## 👩‍💻 Creator  
 **Diana Gonzalez**  
 Senior Cloud Solutions Architect | Microsoft  
-💼 [LinkedIn](https://linkedin.com/in/digonza)  
-📧 https://www.instagram.com/run_logic/
-
+---
+## ✉️ Support
+Questions or feedback? support@runlogicapp.com
 ---
 
 ## 🏁 Inspiration  
