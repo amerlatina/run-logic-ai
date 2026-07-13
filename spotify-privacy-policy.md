@@ -21,7 +21,7 @@ Each third-party service processes data under its own privacy policy once it rec
 4. Your Rights & Choices
 Because Run Logic GPT does not retain your personal data after a session, there is typically nothing stored on our end to access, correct, or delete. For data held by Spotify (e.g., playlists created, account info) or SendGrid, please contact those platforms directly or manage permissions through your account settings on each service. You can revoke Run Logic GPT's access to your Spotify account at any time via Spotify's app permissions settings.
 5. Children's Privacy
-Run Logic GPT is not intended for use by children under 16. We do not knowingly collect data from users under this age.
+Run Logic GPT is not intended for use by children under 18. We do not knowingly collect data from users under this age.
 6. International Users
 If you access Run Logic GPT from outside the United States, your data will be processed via OpenAI's, Spotify's, and SendGrid's infrastructure, which may involve international data transfers. Our basis for processing your data is your consent, given when you authorize an integration via OAuth.
 7. Changes to This Policy
